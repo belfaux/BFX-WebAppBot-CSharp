@@ -1,0 +1,60 @@
+{
+  "name": "BFX-WebAppBot-CSharp",
+  "padlock": "Mwp/gqK46r+vvMmY+tYPJQ==!OnHWTvdqJGU7G3GBg+zel8wQFmcW49dOgHtje+2u80VeOZLNs67lQN6Py56m7jDg",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "014be975-9a3f-4161-87d9-e620e4a154fa",
+      "subscriptionId": "baa400fb-6e84-46d3-927d-b0e6a845573c",
+      "resourceGroup": "BFX-WebAppBot-CSharp",
+      "serviceName": "BFX-WebAppBot-CSharp",
+      "type": "abs",
+      "name": "BFX-WebAppBot-CSharp",
+      "id": "1"
+    },
+    {
+      "connectionString": "SwRVy4o0xaDdPRQcKXpooA==!zISk34Cwx6iBbemaxLJ7Q3GyVGw0JogVZuTROt7D93NBkiYDNeT6eB/b66783pkuQAL4VBHLDlPzNx+zTk3yYhceJ3Hcb6dE9WzmdoSHS9GZy50uzOYw4TIlsj4fOgBal+GfbHvELSMGFDChAUZxkBlnezRSklkamNhKXyoyTG44xS7Nl9yQI2vYei5O7MxITj74JKWchJZGrzMao4tK3aI7BKBLQZWubpPA0xM+vPc=",
+      "tenantId": "014be975-9a3f-4161-87d9-e620e4a154fa",
+      "subscriptionId": "baa400fb-6e84-46d3-927d-b0e6a845573c",
+      "resourceGroup": "BFX-WebAppBot-CSharp",
+      "serviceName": "bfxwebappbotcsharpbb46",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "9561e085-946c-4d0e-954b-8451cb3330ae",
+      "appPassword": "a9GHKK6b8onR7YMYv9X0iQ==!+lGD4KXOjdtHx4b6cdgeMH2y2oqFzvWd6UrOXueQNgg=",
+      "endpoint": "https://bfx-webappbot-csharp.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "8BChOPzsgOSRnYd82Jy3dQ==!6eJ+JB8ipcu0kA3mAhl7AiNyLqhwifPiFghsmU2n1DqV9i/FXi297BWZLHS5hZfw",
+      "applicationId": "4a3fadc6-3a26-4f1f-b575-ed49ad6b850f",
+      "apiKeys": {},
+      "tenantId": "014be975-9a3f-4161-87d9-e620e4a154fa",
+      "subscriptionId": "baa400fb-6e84-46d3-927d-b0e6a845573c",
+      "resourceGroup": "BFX-WebAppBot-CSharp",
+      "serviceName": "BFX-WebAppBot-CSharp36jvub",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "5f211ca1-af02-4122-b322-5b1eae082030",
+      "authoringKey": "XSSzBTDi1tTQ4vk1KIf4gQ==!Qn3Mqkr9t1+Ieff8GtJMAlyT7JW17LHHUV3JHfwXWg/Pdov6Hf9lQl6p1kMcBuqY",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
